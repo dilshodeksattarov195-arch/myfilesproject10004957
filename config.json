@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchcpdate",
+        "uuid": 19188547,
+        "checksum": "nq0n4"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
